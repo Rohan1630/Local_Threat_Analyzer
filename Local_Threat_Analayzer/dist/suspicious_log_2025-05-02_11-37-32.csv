@@ -1,0 +1,10 @@
+PID,Name,CPU%,Memory (MB),Path,Status,Timestamp
+0,System Idle Process,0.0%,0.01 MB,Unknown,2025-05-02_11-37-32
+4,System,0.0%,0.17 MB,Unknown,2025-05-02_11-37-32
+140,,0.0%,106.04 MB,Unknown,2025-05-02_11-37-32
+3692,MemCompression,0.0%,1390.86 MB,MemCompression,2025-05-02_11-37-32
+4104,WhatsApp.exe,0.0%,528.66 MB,C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2516.3.0_x64__cv1g1gvanyjgm\WhatsApp.exe,2025-05-02_11-37-32
+20180,Arc.exe,0.0%,797.24 MB,C:\Program Files\WindowsApps\TheBrowserCompany.Arc_1.50.1.62002_x64__ttt1ap7aakyb4\Arc.exe,2025-05-02_11-37-32
+26620,cTrader.exe,0.0%,551.12 MB,C:\Users\Rohan\AppData\Local\Spotware\cTrader\abb70432efbee65d18af69e79fe8efe1\cTrader.exe,2025-05-02_11-37-32
+31484,Arc.exe,0.0%,1733.58 MB,C:\Program Files\WindowsApps\TheBrowserCompany.Arc_1.50.1.62002_x64__ttt1ap7aakyb4\Arc.exe,2025-05-02_11-37-32
+31716,Arc.exe,0.0%,816.86 MB,C:\Program Files\WindowsApps\TheBrowserCompany.Arc_1.50.1.62002_x64__ttt1ap7aakyb4\Arc.exe,2025-05-02_11-37-32

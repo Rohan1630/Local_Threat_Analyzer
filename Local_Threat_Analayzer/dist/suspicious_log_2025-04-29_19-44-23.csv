@@ -1,0 +1,10 @@
+PID,Name,CPU%,Memory (MB),Path,Status,Timestamp
+0,System Idle Process,0.0%,0.01 MB,Unknown,2025-04-29_19-44-23
+4,System,0.0%,0.17 MB,Unknown,2025-04-29_19-44-23
+140,,0.0%,106.04 MB,Unknown,2025-04-29_19-44-23
+3692,MemCompression,0.0%,1285.34 MB,MemCompression,2025-04-29_19-44-23
+3844,VirtualBoxVM.exe,0.0%,2583.59 MB,C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe,2025-04-29_19-44-23
+4348,VirtualBoxVM.exe,0.0%,528.01 MB,C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe,2025-04-29_19-44-23
+8244,Arc.exe,0.0%,562.04 MB,C:\Program Files\WindowsApps\TheBrowserCompany.Arc_1.50.1.62002_x64__ttt1ap7aakyb4\Arc.exe,2025-04-29_19-44-23
+20180,Arc.exe,0.0%,579.35 MB,C:\Program Files\WindowsApps\TheBrowserCompany.Arc_1.50.1.62002_x64__ttt1ap7aakyb4\Arc.exe,2025-04-29_19-44-23
+20608,Arc.exe,0.0%,516.27 MB,C:\Program Files\WindowsApps\TheBrowserCompany.Arc_1.50.1.62002_x64__ttt1ap7aakyb4\Arc.exe,2025-04-29_19-44-23

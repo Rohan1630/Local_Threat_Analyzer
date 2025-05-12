@@ -1,0 +1,11 @@
+PID,Name,CPU%,Memory (MB),Path,Status,Timestamp
+0,System Idle Process,0.0%,0.01 MB,Unknown,2025-04-29_20-26-57
+4,System,0.0%,0.17 MB,Unknown,2025-04-29_20-26-57
+140,,0.0%,106.04 MB,Unknown,2025-04-29_20-26-57
+3692,MemCompression,0.0%,1181.38 MB,MemCompression,2025-04-29_20-26-57
+3844,VirtualBoxVM.exe,0.0%,2589.61 MB,C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe,2025-04-29_20-26-57
+4348,VirtualBoxVM.exe,0.0%,529.21 MB,C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe,2025-04-29_20-26-57
+8244,Arc.exe,0.0%,525.53 MB,C:\Program Files\WindowsApps\TheBrowserCompany.Arc_1.50.1.62002_x64__ttt1ap7aakyb4\Arc.exe,2025-04-29_20-26-57
+16420,cTrader.exe,0.0%,556.62 MB,C:\Users\Rohan\AppData\Local\Spotware\cTrader\abb70432efbee65d18af69e79fe8efe1\cTrader.exe,2025-04-29_20-26-57
+18848,Arc.exe,0.0%,981.71 MB,C:\Program Files\WindowsApps\TheBrowserCompany.Arc_1.50.1.62002_x64__ttt1ap7aakyb4\Arc.exe,2025-04-29_20-26-57
+20180,Arc.exe,0.0%,581.46 MB,C:\Program Files\WindowsApps\TheBrowserCompany.Arc_1.50.1.62002_x64__ttt1ap7aakyb4\Arc.exe,2025-04-29_20-26-57

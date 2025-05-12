@@ -1,0 +1,8 @@
+PID,Name,CPU%,Memory (MB),Path,Status,Timestamp
+0,System Idle Process,657.9%,0.01 MB,Unknown,2025-05-02_11-38-33
+4,System,9.5%,0.17 MB,Unknown,2025-05-02_11-38-33
+140,,0.0%,106.04 MB,Unknown,2025-05-02_11-38-33
+3692,MemCompression,6.9%,1775.78 MB,MemCompression,2025-05-02_11-38-33
+20180,Arc.exe,3.8%,662.48 MB,C:\Program Files\WindowsApps\TheBrowserCompany.Arc_1.50.1.62002_x64__ttt1ap7aakyb4\Arc.exe,2025-05-02_11-38-33
+31484,Arc.exe,12.1%,926.47 MB,C:\Program Files\WindowsApps\TheBrowserCompany.Arc_1.50.1.62002_x64__ttt1ap7aakyb4\Arc.exe,2025-05-02_11-38-33
+31716,Arc.exe,5.9%,808.54 MB,C:\Program Files\WindowsApps\TheBrowserCompany.Arc_1.50.1.62002_x64__ttt1ap7aakyb4\Arc.exe,2025-05-02_11-38-33
